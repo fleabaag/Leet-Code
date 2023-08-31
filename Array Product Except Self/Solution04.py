@@ -41,13 +41,13 @@ class Solution:
 
 class main:
 
-    # Arrelgo para poner a prueba el código.
+    # Arreglo para poner a prueba el código.
     l = [2, 4, -6, 8]
 
     # Objeto de la clase Solution.
     test = Solution()
 
-    # Arrelgo esperado de salida.
+    # Arreglo esperado de salida.
     answer = test.productExceptSelf(l)
 
     # Visualización del arreglo original y arreglo de salida.
