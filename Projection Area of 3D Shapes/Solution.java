@@ -23,11 +23,11 @@ public class Solution {
                 if (0 < grid[i][j])
                     output += 1;
 
-                /* Obtiene el área de una sola fila en el plano xz */
+                /* Obtiene el máximo de una sóla fila */
                 if (maxXZ < grid[i][j])
                     maxXZ = grid[i][j];
 
-                /* Obtiene el área de una sola fila en el plano xz */
+                /* Obtiene el máximo de una sóla columna */
                 if (maxYZ < grid[j][i])
                     maxYZ = grid[j][i];
 
