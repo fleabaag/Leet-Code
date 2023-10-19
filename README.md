@@ -9,3 +9,7 @@ Array Product Except Self. [link al problema](https://leetcode.com/problems/prod
 Segundo Problema:
 10 de octubre de 2023
 Projection Area of 3D Shapes. [link al problema](https://leetcode.com/problems/projection-area-of-3d-shapes/)
+
+Tercer Problema: 
+18 de octubre de 2023
+Sort Colors. [link al problema](https://leetcode.com/problems/sort-colors/description/)
