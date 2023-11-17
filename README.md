@@ -13,3 +13,9 @@ Projection Area of 3D Shapes. [link al problema](https://leetcode.com/problems/p
 Tercer Problema: 
 18 de octubre de 2023
 Sort Colors. [link al problema](https://leetcode.com/problems/sort-colors/description/)
+
+Cuarto Problema:
+16 de noviembre de 2023
+Minimum Path Sum. [link era ir al problema](https://leetcode.com/problems/minimum-path-sum/description/)
+
+)
