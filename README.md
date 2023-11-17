@@ -17,5 +17,3 @@ Sort Colors. [link al problema](https://leetcode.com/problems/sort-colors/descri
 Cuarto Problema:
 16 de noviembre de 2023
 Minimum Path Sum. [link era ir al problema](https://leetcode.com/problems/minimum-path-sum/description/)
-
-)
